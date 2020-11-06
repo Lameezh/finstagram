@@ -1,0 +1,18 @@
+header{
+background-color: #000507;
+color: #E8FDDD;
+}
+body {
+    background-color: whitesmoke;
+}
+main {
+    background-color: white;
+    padding:20px
+}
+.finstagram-post {
+    margin-botton: 48px
+}
+
+.finstgram-post .user-info img{
+    border-radius: 60%
+}

@@ -19,10 +19,10 @@ label {
 }
 
 input[type=text], input[type=password], input[type=email] {
-  border: solid 1px #244751;
+  border: solid 1px #0b0c0c;
   padding: .5em;
   width: 200px;
-  font-size: 1em;
+  font-size: 3em;
 }
 
 header {
@@ -54,7 +54,7 @@ main {
 }
 
 .button {
-  padding: .5em;
+  padding: .7em;
   background-color: white;
   border: solid 1px #244751;
   display: inline-block;
